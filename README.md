@@ -4,7 +4,7 @@ Notes personnelles de progression -- Devenir expert data dans le spatial dans le
 
 ##  Formations & certifications
 - [ ] [Copernicus MOOC](https://www.copernicus.eu/en/opportunities/education/copernicus-mooc) — bases de l'écosystème de données satellite européen
-- [ ] [Google Earth Engine — Intro](https://earthengine.google.com/) — manipulation d'imagerie satellite à l'échelle
+- [x] [Google Earth Engine — Intro](https://earthengine.google.com/) — manipulation d'imagerie satellite à l'échelle
 - [ ] [TryHackMe — Pre Security](https://tryhackme.com/) — bases cybersécurité 
 
 ##  Notions à maîtriser
@@ -25,4 +25,5 @@ Notes personnelles de progression -- Devenir expert data dans le spatial dans le
 - [pystac](https://github.com/stac-utils/pystac) — manipulation de catalogues STAC
 
 ##  Journal
- - " Introduction to Erth Engine " -- On going ( started on June 4)
+ - " Introduction to Erth Engine " -- DONE ( started on June 4 - finsihed on June 5)
+ - " IA et Machine learning sur Google Cloud" -- On going (started on June 5)
